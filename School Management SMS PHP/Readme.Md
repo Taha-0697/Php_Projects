@@ -1,3 +1,7 @@
+# School Management System
+
+# © All Rights Reserved
+
 >> LOGIN DETAILS <<
 
 Username: admin
