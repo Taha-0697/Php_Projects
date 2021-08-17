@@ -1,2 +1,1 @@
-# All PHP Projects By # @Taha Chaghtai
- 
+# All PHP Projects © Copy Rights Reserved 
