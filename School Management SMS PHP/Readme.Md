@@ -1,7 +1,5 @@
 # School Management System
 
-# © All Rights Reserved
-
 >> LOGIN DETAILS <<
 
 Username: admin
@@ -21,7 +19,8 @@ DATABASE FILE IS INSIDE "database" FOLDER
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://github.com/Taha-0697/Php_Projects*****
+***** FOR MORE PROJECTS :- https://github.com/Taha-0697 *****
+"""" Linkedin :- https://www.linkedin.com/in/taha0697/ ***** 
 
 
 
