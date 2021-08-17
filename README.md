@@ -1,1 +1,1 @@
-# All PHP Projects © Copy Rights Reserved 
+# PHP Projects © All Copy Rights Reserved | Taha
